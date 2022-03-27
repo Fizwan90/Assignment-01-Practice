@@ -145,3 +145,41 @@ h1 {
     background-repeat: no-repeat;
     background-position: bottom;
 }
+
+.SEO-Color {
+    color: orange;
+}
+
+.Pyt-Color {
+    color: orange;
+}
+
+.additional-skill-item {
+    box-shadow: 10px 10px 40px grey;
+    width: 50%;
+    margin-left: 10%;
+    margin-right: 10%;
+    border-radius: 10px;
+}
+
+.year 2022 {
+    color: tomato;
+}
+
+.adventure {
+    color: white;
+}
+
+.calender-2022 {
+    color: tomato
+}
+
+.moto {
+    color: white;
+}
+
+footer {
+    text-align: center;
+    background-color: black;
+
+}
