@@ -112,3 +112,36 @@ h1 {
 #third {
     background-color: purple;
 }
+
+#Programming {
+    color: lightgreen;
+}
+
+#Optimization {
+    color: tomato;
+}
+
+#margin {
+    margin-top: 200px;
+}
+
+.additional-skills-area img {
+    width: 80%;
+}
+
+.Further-Skill {
+    display: flex;
+}
+
+.dev-limit {
+    background-image: url(./shape-1.png);
+    background-repeat: no-repeat;
+    padding-left: 30px;
+}
+
+.global {
+    display: flex;
+    background-image: url(./shape-1.png);
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
