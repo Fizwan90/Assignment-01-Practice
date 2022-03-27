@@ -134,14 +134,14 @@ h1 {
 }
 
 .dev-limit {
-    background-image: url(./shape-1.png);
+    background-image: url(./images/shape-1.png);
     background-repeat: no-repeat;
     padding-left: 30px;
 }
 
 .global {
     display: flex;
-    background-image: url(./shape-1.png);
+    background-image: url(./images/shape-1.png);
     background-repeat: no-repeat;
     background-position: bottom;
 }
